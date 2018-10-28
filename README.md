@@ -13,6 +13,3 @@ The process of learning data representation is also called Feature Learning whic
 3. Structuring Machine Learning Projects
 4. Convolutional Neural Networks
 5. Natural Language Processing: Building Sequence Models
-
-
------ADD IMAGE-----
