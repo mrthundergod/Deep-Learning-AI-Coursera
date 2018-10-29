@@ -5,7 +5,7 @@ An ANN is based on a collection of connected units or nodes called artificial ne
 
 Let's take an example of a predicting house prices using a NN.
 
-![alt-text][images-repo/11.PNG]
+![Image of Example](images-repo/11.PNG)
 
 Above shows the simplest NN with a single neuron, one input and one output. As per the example the input is the size of a house and the output is the price. The data is plotted on a graph as shown above and the NN works to draw or fit a curve so that it correlated with future values. The shape of the curve in the graph is made using a fuction called ReLU. 
 
