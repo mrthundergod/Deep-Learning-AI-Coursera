@@ -19,3 +19,24 @@ In NN, all the nodes are interconnected. Eventhough Family size is dependent on 
 A densely connected layer refers to when all the nodes of one layer is connected to all the nodes in the succeeding layer.
 
 ![Densely Connected Layers](https://github.com/mrthundergod/images-repo/blob/master/13.jpeg)
+
+## Supervised Learning with NN
+Learning can be classified broadly into three types;
+    1. Supervised Learning 
+    2. Unsupervised Learning
+    3. Reinforcement Learning
+Supervised Learning involves using labelled data to teach a NN to identify unlabelled data.
+Below are some spplications of Supervised NNs.
+
+![SL applications](https://github.com/mrthundergod/images-repo/blob/master/13.PNG)
+
+Data can be of two types;
+  1. Structured data : Databases, Tables, etc.
+  2. Unstructured data : Audio, text, images, etc.
+
+## What drives Deep Learning?
+Deep learning has gained recognition and is widely used now aways due to the availability of more computing power. Some of the things that drive DL now are;
+      1. Data
+      2. Computation
+      3. Algorithims
+The NN needs to scale with the amount of data.
