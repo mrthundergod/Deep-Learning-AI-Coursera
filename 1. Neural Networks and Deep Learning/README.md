@@ -12,7 +12,10 @@ Above shows the simplest NN with a single neuron, one input and one output. As p
 ReLU replaced sigmoid curves as the standard used, because in sigmoid, there are places where the slope of the curve is zero which slows down the gradient descent and in effect the NN.
 
 A neural network is essentially a whole collection of above neurons placed one above the other. Instead of a single input, there are multiple inputs(x1, x2, x3, x4) which, constitute an 'Input Layer'. These features combine to form different features in the middle layer called a 'Hidden Layer'. Things like the size of the house and no. of bedrooms constitute a new feature called Family Size. Similarly there may form other features like Walkability and School Quality. 
-![Neural Network](https://github.com/mrthundergod/images-repo/blob/master/12.PNG)
-In NN, all the nodes are interconnected. Eventhough Family size is dependent on just the house size and the number of bedrooms, the other two features are also connected. The importance of each feature is expressed using a concept called weights.(More later)
-A densely connected layer refers to when all the nodes of one layer is connect to all the nodes in the succeding layer.
 
+![Neural Network](https://github.com/mrthundergod/images-repo/blob/master/12.PNG)
+
+In NN, all the nodes are interconnected. Eventhough Family size is dependent on just the house size and the number of bedrooms, the other two features are also connected. The importance of each feature is expressed using a concept called weights.(More later)
+A densely connected layer refers to when all the nodes of one layer is connected to all the nodes in the succeeding layer.
+
+![Densely Connected Layers](https://github.com/mrthundergod/images-repo/blob/master/13.jpeg)
